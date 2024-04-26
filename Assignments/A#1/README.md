@@ -8,9 +8,9 @@ This program imulates a bank. It recieves account information from the user and 
 
 |   #   | File             | Description                                            |
 | :---: | ---------------- | --------------------------------------------------     |
-|   1   |    [Source.cpp](https://github.com/Coop-Wolf/3013-Algorithms/blob/main/Assignments/E01/main.cpp)      | Main driver of my project that stores the vector class.|
-|   2   |   [Account.h]()  |    Header file for Account class |
-|   3   |   [Account.cpp]()|    Implementation of Account class |
+|   1   |    [Source.cpp](https://github.com/Coop-Wolf/1064-Data-Structures/blob/main/Assignments/A%231/Source.cpp)      | Main driver of my project that stores the vector class.|
+|   2   |   [Account.h](https://github.com/Coop-Wolf/1064-Data-Structures/blob/main/Assignments/A%231/Account.h)  |    Header file for Account class |
+|   3   |   [Account.cpp](https://github.com/Coop-Wolf/1064-Data-Structures/blob/main/Assignments/A%231/Account.cpp)|    Implementation of Account class |
 
 ### Instructions
 
