@@ -2,7 +2,7 @@
 ### Cooper Wolf
 ### Description:
 
-This program imulates a bank. It recieves account information from the user and gives them the ability to deposit, withdrawl and make various transfers.
+This program imulates a bank. It recieves account information from the user and gives them the ability to deposit, withdral and make various transfers.
 
 ### Files
 
@@ -16,9 +16,9 @@ This program imulates a bank. It recieves account information from the user and 
 
 - My program will give the user a list of options to choose from. When finished, type 6
 - Example
-        cout << "1.Deposit.\n";
-        cout << "2.Withdraw\n";
-        cout << "3.Transfer money between accounts.\n";
-        cout << "4.Transfer money between clients.\n";
-        cout << "5.See all bank data.\n";
-        cout << "6.Nothing.\n";
+        1.Deposit.
+        2.Withdral.
+        3.Transfer money between accounts.
+        4.Transfer money between clients.
+        5.See all bank data.
+        6.Nothing.
