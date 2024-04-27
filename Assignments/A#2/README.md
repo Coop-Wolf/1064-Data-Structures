@@ -8,7 +8,7 @@ This program does something (need to fix later)
 
 |   #   | File             | Description                                            |
 | :---: | ---------------- | --------------------------------------------------     |
-|   1   |    [Source.cpp](https://github.com/Coop-Wolf/1064-Data-Structures/blob/main/Assignments/A%231/Source.cpp)      | Main file for program.|
+|   1   |    [Source.cpp](https://github.com/Coop-Wolf/1064-Data-Structures/blob/main/Assignments/A%232/Source.cpp)      | Main file for program.|
 
 
 ### Instructions
