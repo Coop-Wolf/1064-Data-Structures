@@ -2,7 +2,7 @@
 ### Cooper Wolf
 ### Description:
 
-This program imulates a bank. It recieves account information from the user and gives them the ability to deposit, withdral and make various transfers.
+This program acts as a data base for a bank. This program includes classes and functions that can increase/decrease the amount of money in a persons savings or checking account. This program runs by building solution and clicking local windows debugger the names of the files used in this program are Account.h and Account.cpp. One stores the classes used in this program and the other includes the fuctions used in the classes.
 
 ### Files
 
